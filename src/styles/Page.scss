@@ -1,0 +1,26 @@
+.page-reservation {
+  width: 100vw;
+  height: 100vh;
+  font-family: 'Y_Spotlight';
+
+  .ant-tabs {
+    &-nav-wrap {
+      height: 50px;
+      padding-left: 3vw;
+    }
+
+    &-tab {
+      padding: none;
+      font-family: '';
+    }
+
+    &-tabpane-active {
+      padding-left: 3vw;
+    }
+  }
+}
+
+.tab-reservation {
+  height: 15%;
+  border-bottom: 10px solid rgb(233, 233, 233);
+}

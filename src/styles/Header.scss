@@ -1,0 +1,9 @@
+.header {
+  &-main {
+    display: flex;
+    align-items: center;
+    padding: 2%;
+    height: 7vh;
+    border-bottom: 1px solid rgb(219, 219, 219);
+  }
+}
